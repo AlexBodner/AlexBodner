@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexBodner
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently studying AI Engineering
-- 🔥 I´m active Co-Founder and CIO at Satellites On Fire
 - 📫 How to reach me: mail: alexbodner2004@gmail.com or LinkedIn: Alexander Bodner
 
 <!---
