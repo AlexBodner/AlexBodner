@@ -25,7 +25,6 @@
 ---
 
 
-
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -33,20 +32,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbodner&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexbodner&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbodner&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
 
 ## ✍️ Interests
 
