@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+AI+systems;Open-Sourcing-Computer-Vision-Methods;Exploring+LLM+reasoning;Obsessed+with+new+architectures;Making+Tracking+Easy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+AI+systems;Open+Sourcing+Computer+Vision+Methods;Exploring+LLM+reasoning;Obsessed+with+new+architectures;Making+Tracking+Easy" />
 </p>
 
 ---
