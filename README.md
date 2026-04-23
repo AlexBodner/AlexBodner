@@ -29,7 +29,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,java,sql,pytorch,tensorflow,numpy,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,java,sql,pytorch,tensorflow,nodejs&theme=dark" />
 </p>
 
 ---
