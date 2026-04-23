@@ -28,14 +28,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,js,java,sql,pytorch,tensorflow,nodejs&theme=dark" />
 </p>
 
----
-
-## ✍️ Interests
-
-* AI + academic writing
-* Computer vision
-* Artificial reasoning
-* World models
 
 ---
 
