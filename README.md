@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 * 👨‍💻 Open Source Engineer @Roboflow
-* 🎓 AI Engineering @ UdeSA
+* 🎓 Finishing my 5 year AI Engineering Bachelor @ UdeSA
 * 🚀 Built my startup (Satellites On Fire) at 16yo and exited ($400K+ raised)
 * 🧪 Researching LLM reasoning & uncertainty
 
