@@ -17,28 +17,19 @@
 
 ## 🧠 About Me
 
+* Open Source Engineer @Roboflow
 * 🎓 AI Engineering @ UdeSA
-* 🚀 Built and exited a startup ($400K+ raised)
+* 🚀 Built my startup (Satellites On Fire) at 16yo and exited ($400K+ raised)
 * 🧪 Researching LLM reasoning & uncertainty
-* 🧠 Love understanding *why* models work, not just *that* they work
 
 ---
 
-## 🔬 Current Focus
 
-```text
-- Uncertainty estimation in LLMs
-- Context retention & token importance
-- Attention mechanisms beyond standard transformers
-- Vision + geometry (reconstruction, depth, homography)
-```
-
----
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,sql,pytorch,tensorflow,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,java,sql,pytorch,tensorflow,react,nodejs&theme=dark" />
 </p>
 
 ---
@@ -56,20 +47,13 @@
 
 ---
 
-## 🧩 Projects
-
-* 🧠 Model summary parsers (PyTorch & TensorFlow → structured JS)
-* 📊 Neural architecture analysis (TFLOPs, MACs, params)
-* 🎮 RL agents (Super Mario environment)
-* 🎥 ML visualizations (Manim + DL internals)
-
----
 
 ## ✍️ Interests
 
 * AI + academic writing
-* LLM limitations & reasoning
-* New paradigms for memory in models
+* Computer vision
+* Artificial reasoning
+* World models
 
 ---
 
