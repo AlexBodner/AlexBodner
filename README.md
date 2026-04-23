@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-* Open Source Engineer @Roboflow
+* 👨‍💻 Open Source Engineer @Roboflow
 * 🎓 AI Engineering @ UdeSA
 * 🚀 Built my startup (Satellites On Fire) at 16yo and exited ($400K+ raised)
 * 🧪 Researching LLM reasoning & uncertainty
@@ -29,7 +29,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,java,sql,pytorch,tensorflow,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,java,sql,pytorch,tensorflow,numpy,nodejs&theme=dark" />
 </p>
 
 ---
